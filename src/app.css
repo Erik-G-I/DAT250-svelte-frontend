@@ -1,0 +1,10 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+.poll-option {
+  margin: 10px 0;
+}
+button {
+  margin-left: 10px;
+}
